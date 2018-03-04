@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQ_ConsumerConsole", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQ_ClientLib", "ActiveMQ_ClientLib\ActiveMQ_ClientLib.csproj", "{13D87403-C6BB-48C5-BDC0-3FC13DC4770D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AWS-EC2 - Configure Resources", "AWS-EC2 - Configure Resources", "{C1F30CA5-1949-4BF1-B511-F5F80C15244D}"
+	ProjectSection(SolutionItems) = preProject
+		AWS-EC2 - Configure Resources\Active-Mq-SecurityGroup-Config.png = AWS-EC2 - Configure Resources\Active-Mq-SecurityGroup-Config.png
+		AWS-EC2 - Configure Resources\Bootstrap - ActiveMQ - Linux.txt = AWS-EC2 - Configure Resources\Bootstrap - ActiveMQ - Linux.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
